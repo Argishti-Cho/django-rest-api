@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/argo/Desktop/DJANGO/restAPI/venv"
+set -gx VIRTUAL_ENV "/home/argo/Desktop/DJANGO/restAPI/django-rest-api/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
